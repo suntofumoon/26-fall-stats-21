@@ -2,6 +2,7 @@
 # Jupyter Notebook
 # =========================
 .ipynb_checkpoints/
+anaconda_projects/
 
 # =========================
 # Python & Environments
