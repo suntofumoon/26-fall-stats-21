@@ -34,6 +34,9 @@ Desktop.ini
 # Instructor iClicker questions
 /iclicker/
 
+# other outputs
+/output/
+
 # preview and older versions
 /live_demos/previews/
 /live_demos/older/
